@@ -4,11 +4,10 @@
   "language": "pt-BR",
   "description": "Validação e formatação de documentos do Brasil.",
   "packOptions": {
-    "projectUrl": "https://github.com/martinusso/docsbr.net",
-    "licenseUrl": "https://raw.githubusercontent.com/martinusso/docsbr.net/master/LICENSE",
+    "projectUrl": "https://github.com/fontanaricardo/docsbr.net.git",
     "repository": {
       "type": "git",
-      "url": "https://github.com/martinusso/docsbr.net.git"
+      "url": "https://github.com/fontanaricardo/docsbr.net.git.git"
     },
     "summary": "Validação e formatação de documentos do Brasil.",
     "tags": [
