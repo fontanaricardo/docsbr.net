@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Validação e formatação de documentos do Brasil.</Description>
+    <AssemblyTitle>DocsBr Standard</AssemblyTitle>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
+    <VersionPrefix>2.0.1</VersionPrefix>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <AssemblyName>DocsBrStandard</AssemblyName>
+    <PackageId>DocsBrStandard</PackageId>
+    <PackageTags>cpf;cnpj;standard;library;Brasil;Brazil;inscrição estadual</PackageTags>
+    <PackageReleaseNotes>Portada biblioteca para Standard Library 1.6.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/fontanaricardo/docsbr.net.git</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/fontanaricardo/docsbr.net.git.git</RepositoryUrl>
+    <NetStandardImplicitPackageVersion>1.6.0</NetStandardImplicitPackageVersion>
+    <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+</Project>
